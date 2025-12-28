@@ -1,30 +1,48 @@
-# Ladytron – Mirage
+# Pryda – Mirage
 
-> **歌詞登録ステータス：プレーン歌詞のみ**
+> **歌詞登録ステータス：同期歌詞あり**
 
-```
-Footsteps cross the school yard
-Holding hands with a mirage
-You don't listen
-You do not exist
-Mute of all suggestion
-The broken doll in question
-Through shattered mirror
-Empty caravel
-You mirage, mirage
-That sings to me
-Or maybe stopped hearing
-You do not exist
-Two tracks through the desert
-Sad eyes, little puppet
-You don't listen
-You do not exist
-Happy not to notice
-The room, the traps, the focus
-Where you cannot see
-Reflections from within
-You mirage, mirage
-That sings to me
-Or maybe stopped hearing
-You do not exist
+```lrc
+[01:27.96] I can't do well when I think
+[01:30.00] You're gonna leave me, but I know I try
+[01:34.77] Are you gonna leave me now?
+[01:37.53] Can't you be believing now?
+[01:42.50] I can't do well when I think
+[01:45.67] You're gonna leave me, but I know I try
+[01:49.45] Are you gonna leave me now?
+[01:52.52] Can't you be believing now?
+[01:57.20] Can you remember and humanize?
+[02:02.75] It was still where we'd energized
+[02:06.81] Lie in the sand and visualize
+[02:09.87] Like it's seventy five again
+[02:14.41] We are the people that rule the world
+[02:17.46] A force running in every boy and girl
+[02:22.49] All rejoicing in the world
+[02:24.89] Take me now, we can try
+[02:28.48] I can't do well when I think
+[02:30.50] You're gonna leave me, but I know I try
+[02:34.43] Are you gonna leave me now?
+[02:37.81] Can't you be believing now?
+[02:43.11] I can't do well when I think
+[02:45.58] You're gonna leave me, but I know I try
+[02:50.20] Are you gonna leave me now?
+[02:53.55] Can't you be believing now?
+[02:57.35] I know everything about you
+[03:01.75] You know everything about me
+[03:06.15] Know everything about us
+[03:13.58] I know everything about you
+[03:17.32] You know everything about me
+[03:21.02] Know everything about us
+[03:57.73] I can't do well when I think
+[04:00.48] You're gonna leave me, but I know I try
+[04:04.33] Are you gonna leave me now?
+[04:07.80] Can't you be believing now?
+[04:12.52] I can't do well when I think
+[04:15.53] You're gonna leave me, but I know I try
+[04:19.58] Are you gonna leave me now?
+[04:23.37] Can't you be believing now?
+[05:13.26] I can't do well when I think
+[05:15.59] You're gonna leave me, but I know I try
+[05:19.73] Are you gonna leave me now?
+[05:23.57] Can't you be believing now?
 ```
