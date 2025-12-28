@@ -1,69 +1,35 @@
-# Creepy Nuts – Mirage
+# Siouxsie and the Banshees – Mirage
 
-> **歌詞登録ステータス：プレーン歌詞のみ**
+> **歌詞登録ステータス：同期歌詞あり**
 
-```
-明かりの灯ったmidnight
-エゴと欲と未練が行き交う
-雨にぼやけた視界
-ネオンがなぞる濡れた輪郭
-Until morningまだ醒めないで
-時が引き裂く
-呆れた顔でgoodnight
-追いつけたと思えばmirage
-あの日のままで触れたい
-とっくに脱ぎ捨ててた品格
-あっという間に起こる間違い yeah
-夜は短く…
-ガス切れのライターが照らす
-いきさつ
-ちょっと待ってや Huh…
-俺にゃ家庭があって生活があってやな…
-放っとかんて uh-huh
-俺が嘘つく前にとっくに跨ってら
-la di la di la la…
-今日も鼻歌混じり開いたカギ穴
-本当勝手やな
-確か20年前もこんな始まり方
-あぁ選ばなきゃ大事な日向
-甘美な暗闇かどっちか
-「もっと書いて...」
-「もっと歌って...」
-欲張って笑う
-お前の計画通り溶けていく明日 wo
-どうでもいいや wo
-この通り
-もう止まんねーや… ha ha ha
-呆れた顔でgoodnight
-追いつけたと思えばmirage
-あの日のままで触れたい
-とっくに脱ぎ捨ててた品格
-あっという間に起こる間違い yeah
-夜は短く…
-ガス切れのライターが照らす
-いきさつ
-血がのぼったら始まっちゃう
-共食いしてるChupacabra blah blah...
-日が昇ったら灰になっちゃう
-棺桶にフタしてDracula la la...
-血がのぼったら始まっちゃう
-共食いしてるChupacabra blah blah...
-日が昇ったら灰になっちゃう
-棺桶にフタして…
-たとえお前がまだ途中でもhaha
-その手を振り解いて「またな」
-いや、もう会わない「サヨナラ」
-最後にこいつを書き上げたら
-そしてまた お前の中
-ペンを突き立てる柔肌
-戻るただ 平凡なパパ
-隠す首筋の歯形yeah yeah
-呆れた顔でgoodnight
-追いつけたと思えばmirage
-あの日のままで触れたい
-とっくに脱ぎ捨ててた品格
-あっという間に起こる間違い yeah
-夜は短く…
-ガス切れのライターが照らす
-いきさつ
+```lrc
+[00:13.46] I'm just a vision on your TV screen
+[00:19.17] Just something conjured from my dream
+[00:25.67] Seen through your x-ray eyes, a see-through scene
+[00:31.75] The image is no images, it's not what it seems
+[00:54.75] 
+[00:37.58] My limbs are like palm trees swaying in the breeze
+[00:43.68] My body's an oasis to drink from as you please
+[00:49.98] I'm not seeing what I'm meant to believe in
+[00:52.93] Your non excuse for human being
+[01:08.43] 
+[01:09.53] It's quite plain to see that I'm playing with me
+[01:15.59] A photo-fit of loose ends, framed in 3-D
+[01:21.66] Seen through your x-ray eyes, a see-through scene
+[01:27.72] The image is no images, it's not what it seems
+[01:50.72] 
+[01:33.87] My limbs are like palm trees swaying in the breeze
+[01:39.82] My body's an oasis to drink from as you please
+[01:46.06] I'm not seeing what I'm meant to believe in
+[01:49.10] Your non excuse for human being, being, being
+[02:11.60] 
+[02:05.78] My limbs are like palm trees swaying in the breeze
+[02:11.63] My body's an oasis to drink from as you please
+[02:17.67] I'm not seeing what I'm meant to believe in
+[02:20.86] Your non excuse for human being
+[02:36.36] 
+[02:26.81] It's not what it seems
+[02:29.59] The image is no images
+[02:32.14] It's not what it seems
+[02:35.33] It's not what it seems
 ```
