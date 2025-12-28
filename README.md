@@ -1,35 +1,35 @@
-# Siouxsie and the Banshees – Mirage
+# Ceo – Mirage
 
 > **歌詞登録ステータス：同期歌詞あり**
 
 ```lrc
-[00:13.46] I'm just a vision on your TV screen
-[00:19.17] Just something conjured from my dream
-[00:25.67] Seen through your x-ray eyes, a see-through scene
-[00:31.75] The image is no images, it's not what it seems
-[00:54.75] 
-[00:37.58] My limbs are like palm trees swaying in the breeze
-[00:43.68] My body's an oasis to drink from as you please
-[00:49.98] I'm not seeing what I'm meant to believe in
-[00:52.93] Your non excuse for human being
-[01:08.43] 
-[01:09.53] It's quite plain to see that I'm playing with me
-[01:15.59] A photo-fit of loose ends, framed in 3-D
-[01:21.66] Seen through your x-ray eyes, a see-through scene
-[01:27.72] The image is no images, it's not what it seems
-[01:50.72] 
-[01:33.87] My limbs are like palm trees swaying in the breeze
-[01:39.82] My body's an oasis to drink from as you please
-[01:46.06] I'm not seeing what I'm meant to believe in
-[01:49.10] Your non excuse for human being, being, being
-[02:11.60] 
-[02:05.78] My limbs are like palm trees swaying in the breeze
-[02:11.63] My body's an oasis to drink from as you please
-[02:17.67] I'm not seeing what I'm meant to believe in
-[02:20.86] Your non excuse for human being
-[02:36.36] 
-[02:26.81] It's not what it seems
-[02:29.59] The image is no images
-[02:32.14] It's not what it seems
-[02:35.33] It's not what it seems
+[00:47.26] Don't know much about this world
+[00:49.04] But don't mind us, don't mind us
+[00:52.71] We play the odds to one
+[00:54.57] If we go out we blush
+[00:57.21] You play on just like you want
+[00:59.02] Still on a rush, still in a crush
+[01:01.74] Coming down just one more time
+[01:03.54] You're waving from the cross
+[01:17.54] 
+[01:07.81] When you see love, I see a mirage
+[01:12.46] You sway, roll about
+[01:15.18] We're too young to rush
+[01:18.34] Laying your body, start
+[01:19.66] Only tell you ways I grip
+[01:22.85] I slide when you say run
+[01:34.85] 
+[02:05.09] Don't know much about this world
+[02:05.92] New ways are new, like prince and you
+[02:09.66] The chill light of the void is slowly shining through
+[02:14.17] You know so much about this world
+[02:15.96] And still so blue, you're kind of screwed
+[02:18.67] And if you think I do
+[02:29.17] 
+[02:25.10] When you see love, I see a mirage
+[02:28.78] You sway, roll about
+[02:31.43] We're too young to rush
+[02:34.10] Laying your body, start
+[02:36.88] Only tell you ways I grip
+[02:39.65] I slide when you say run
 ```
